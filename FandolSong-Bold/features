@@ -4,12 +4,12 @@ languagesystem kana dflt;
 languagesystem latn dflt;
 
 table head{
-    FontRevision 1.300;
+    FontRevision 1.400;
 } head;
 
 table name {
-    nameid 0    "Copyright \00a9 2012-2013, the Fandol team.";
-    nameid 0 1  "Copyright \a9 2012-2013, the Fandol team.";
+    nameid 0    "Copyright \00a9 2012-2016, the Fandol team.";
+    nameid 0 1  "Copyright \a9 2012-2016, the Fandol team.";
     nameid 8    "Project Fandol";
     nameid 9    "Clerk Ma, Jie Su";
     nameid 10   "Chinese fonts for TeX system.";
